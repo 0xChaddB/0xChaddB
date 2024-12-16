@@ -1,5 +1,5 @@
 
-Yo Chad'
+## Yo Chad's ##
 
 I aim to become one of the **best smart contract auditors** and a leading **DeFi Security Researcher**. 
 Solditity enjoyer
