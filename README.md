@@ -2,7 +2,9 @@
 ## Yo Chad's ##
 
 I aim to become one of the **best smart contract auditors** and a leading **DeFi Security Researcher**. 
-Solditity enjoyer
+Solidity enjoyer
+
+#  What I Do #
 
 - 🔒 **Smart Contract Auditing**: Exploring and mitigating DeFi exploits.
 - 🦾 Building **DeFi protocols** and documenting best practices.
